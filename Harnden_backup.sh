@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 #The purpose of this bash script is copy all the files in a directory
 # to a special folder called BACKUP_FILES in your home directory.
