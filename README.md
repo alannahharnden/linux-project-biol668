@@ -1,7 +1,6 @@
 # linux-project-biol668
 
 ## Description
-This repository is for uploading my completed Linux project.
 This is a completed Bash scripting / Linux project for the BIOL 668 course taught by DSK at San Diego State.
 
 ## Instructions
