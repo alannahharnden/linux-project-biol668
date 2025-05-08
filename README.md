@@ -57,6 +57,7 @@ You can access additional help with for loops from https://www.cyberciti.biz/faq
 Finish by moving all .fna files into ``P_DATA``, and creating a tarball of all of the files within this directory.
 ```
 mv *.fna.txt ~/P_DATA
+
 tar cf ~/P_DATA/pdata.tar ~/P_DATA/*.fna.txt
 gzip ~/P_DATA/pdata.tar
 ```
