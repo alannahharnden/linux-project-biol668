@@ -1,7 +1,7 @@
 # Linux / Bash Script Project - BIOL 668
 
 ## Description
-This is a completed Bash scripting / Linux project for the BIOL 668 course taught by DSK at San Diego State.
+This is a completed Bash scripting / Linux project for the BIOL 668 course taught by Dr. Scott Kelley at San Diego State.
 
 
 - Required Files:
